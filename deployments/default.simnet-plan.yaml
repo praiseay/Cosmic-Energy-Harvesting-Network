@@ -55,6 +55,11 @@ plan:
             path: contracts/dark-energy-capture.clar
             clarity-version: 2
         - emulated-contract-publish:
+            contract-name: energy-distribution
+            emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
+            path: contracts/energy-distribution.clar
+            clarity-version: 2
+        - emulated-contract-publish:
             contract-name: vacuum-energy-extraction
             emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
             path: contracts/vacuum-energy-extraction.clar

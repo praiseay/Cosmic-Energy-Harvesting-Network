@@ -24,3 +24,5 @@ V
 &tests/vacuum-energy-extraction.test.ts,2/0/202fa2ae4e933ddf712dfbe935cb4703ac9df59f
 R
 "contracts/energy-distribution.clar,8/6/8603da92ed4d883f6f46f79bac9b8fe29302e3d5
+Q
+!tests/energy-distribution.test.ts,d/a/daaf53d1fdddb88583e6da9505342a0385185e78
