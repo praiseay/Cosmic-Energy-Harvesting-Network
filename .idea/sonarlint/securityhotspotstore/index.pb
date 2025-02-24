@@ -16,3 +16,5 @@
 tsconfig.json,6/1/61ebb9fd6e8cf9082658121d5d81e297791dacd0
 R
 "contracts/dark-energy-capture.clar,2/d/2dff08ceef14d5a8dce8b2d86527dd658acc9a91
+Q
+!tests/dark-energy-capture.test.ts,a/5/a5d348fb802c9d244ae5cac1920fdba11eb47f89
