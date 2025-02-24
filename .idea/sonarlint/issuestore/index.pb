@@ -22,3 +22,5 @@ W
 'contracts/vacuum-energy-extraction.clar,2/d/2d1a81495d0d438457f9c71791d72305150a186b
 V
 &tests/vacuum-energy-extraction.test.ts,2/0/202fa2ae4e933ddf712dfbe935cb4703ac9df59f
+R
+"contracts/energy-distribution.clar,8/6/8603da92ed4d883f6f46f79bac9b8fe29302e3d5
