@@ -20,3 +20,5 @@ Q
 !tests/dark-energy-capture.test.ts,a/5/a5d348fb802c9d244ae5cac1920fdba11eb47f89
 W
 'contracts/vacuum-energy-extraction.clar,2/d/2d1a81495d0d438457f9c71791d72305150a186b
+V
+&tests/vacuum-energy-extraction.test.ts,2/0/202fa2ae4e933ddf712dfbe935cb4703ac9df59f
