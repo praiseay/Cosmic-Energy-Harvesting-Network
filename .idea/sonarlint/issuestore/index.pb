@@ -14,3 +14,5 @@
 vitest.config.js,e/0/e07f8ead7c602b60a2232e5ffe6110c6ee0d3968
 =
 tsconfig.json,6/1/61ebb9fd6e8cf9082658121d5d81e297791dacd0
+R
+"contracts/dark-energy-capture.clar,2/d/2dff08ceef14d5a8dce8b2d86527dd658acc9a91
