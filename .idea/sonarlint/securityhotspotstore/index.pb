@@ -26,3 +26,7 @@ R
 "contracts/energy-distribution.clar,8/6/8603da92ed4d883f6f46f79bac9b8fe29302e3d5
 Q
 !tests/energy-distribution.test.ts,d/a/daaf53d1fdddb88583e6da9505342a0385185e78
+T
+$contracts/universal-equilibrium.clar,2/8/28ed493f94b3904ac782fb4526120664e50e1215
+S
+#tests/universal-equilibrium.test.ts,f/9/f96fb5347cdc63282138eec1dea4e8de590f61b6
